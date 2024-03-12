@@ -1,0 +1,16 @@
+.filter-groups {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  .filter-groups__select-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .filter-groups__select {
+    border-radius: 5px;
+    background: #222222;
+  }
+}

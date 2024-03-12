@@ -1,0 +1,12 @@
+.friends-block {
+  align-self: flex-end;
+  max-height: 100%;
+  max-width: 35%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 5px;
+  border: #cccccc20 solid 1px;
+  border-radius: 5px;
+  overflow-y: auto;
+}
